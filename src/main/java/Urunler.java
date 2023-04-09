@@ -18,11 +18,7 @@ public class Urunler {
     }
 
 
-    public String toString1() {
-        return "id=" + id +
-                " name=" + name +
-                " price=" + price+ "  Kilo "+ Depo.kilo+"\n";
-    }
+
     public String getId() {
         return id;
     }
